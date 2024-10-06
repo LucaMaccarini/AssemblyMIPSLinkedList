@@ -1,6 +1,6 @@
 # LinkedList in Assembly MIPS
 
-![Project image](MIPS%20linked%20list.png)
+<img src="MIPS linked list.png" alt="Project image" width="300"/>
 
 ## Description
 I have implemented the linked list data structure in assemby MIPS and I have made a brief report in Italian that you can find in the repository and it is called "specifica.docx".
