@@ -11,7 +11,7 @@ Being all sources written in assemby MIPS they are well commented to ensure an e
 - inside the mars program is important to:
   - file > open and select the file sorgenti/main.asm
   - settings > check "assembre all files in directory"
-- now you assemble and run the code
+- now you can assemble and run the code
 
 ## Imposrtant note
 The code uses the Bitmap Display tool, which should be set to a height and width of 128. To prevent Mars from freezing, it’s crucial to connect the Bitmap Display to the MIPS memory before running the program.
