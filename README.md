@@ -14,7 +14,7 @@ Being all sources written in assemby MIPS they are well commented to ensure an e
 - clone the repository
 - execute with java the file Mars4_5.jar
 - inside the mars program is important to:
-  - file > open and select the file sorgenti/main.asm
+  - file > open > select the file sorgenti/main.asm
   - settings > check "assembre all files in directory"
 - now you can assemble and run the code
 
