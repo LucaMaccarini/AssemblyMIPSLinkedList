@@ -1,4 +1,7 @@
 # LinkedList in Assembly MIPS
+
+![Project image](MIPS linked list.png)
+
 ## Description
 I have implemented the linked list data structure in assemby MIPS and I have made a brief report in Italian that you can find in the repository and it is called "specifica.docx".
 
