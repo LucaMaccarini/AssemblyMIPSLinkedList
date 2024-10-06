@@ -3,9 +3,11 @@
 <img src="MIPS linked list.png" alt="Project image" width="600"/>
 
 ## Description
+This repository contains the project I submitted for an exam during my Bachelor’s degree.
+
 I have implemented the linked list data structure in assemby MIPS.
 
-The file "specifica.docx" in the root of the repo contains a brief report written in Italian.
+The file [specifica.docx](./specifica.docx) in the root of the repo contains a brief report written in Italian.
 
 Being all sources written in assemby MIPS they are well commented to ensure an excellent reading of the source code.
 
