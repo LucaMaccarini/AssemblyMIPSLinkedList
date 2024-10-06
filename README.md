@@ -25,6 +25,9 @@ Make sure to stop the program before closing the tool!
 
 ## Color table
 the code ask you to insert some color here for you a little color table:
+
 Red: 16711680
+
 Green: 65280
+
 Blue: 255
